@@ -1,6 +1,6 @@
 {
-  "name": "@repstream/zod-prisma",
-  "version": "0.5.4",
+  "name": "@powercyclesolutions/zod-prisma",
+  "version": "0.5.5",
   "private": true,
   "description": "A Prisma generator that creates Zod schemas for all of your models",
   "license": "MIT",
